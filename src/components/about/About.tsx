@@ -17,7 +17,7 @@ function About() {
 					<p className="about__decription">
 						Mobile developer, I create mobile applications with intuitive UI/UX
 						design. I have years of experience, and many clients are happy with
-						the projects I've delivered.
+						the projects I&apos;ve delivered.
 					</p>
 
 					<a
